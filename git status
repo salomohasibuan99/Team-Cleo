@@ -1,0 +1,60 @@
+[33mcommit 0692381d1bb6a7c36ea2bd9d2e51f0837e394e99[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: salomo12 <salomohasibuan99@gmail.com>
+Date:   Wed Jan 25 23:03:47 2023 +0700
+
+    revisi isi laporan
+
+[33mcommit baa921a7563e1cba1a276aceaa6345301772ba55[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: d669d03 0afdeed
+Author: salomo12 <salomohasibuan99@gmail.com>
+Date:   Wed Jan 25 22:43:15 2023 +0700
+
+    Merge branch 'main' of github.com:salomohasibuan99/Team-Cleo
+
+[33mcommit d669d037419d5bb2d1bbfa741bcf4dc2204172de[m
+Author: salomo12 <salomohasibuan99@gmail.com>
+Date:   Tue Jan 24 14:45:01 2023 +0700
+
+    laporan
+
+[33mcommit 0afdeedb645cc436f45e32443e612cfdda1ebfac[m
+Author: calvin778 <122368159+calvin778@users.noreply.github.com>
+Date:   Tue Jan 24 10:41:07 2023 +0700
+
+    Delete Emergency directory
+
+[33mcommit befe89c8cba527ea25a712e6df47efeff30e5a8c[m
+Author: calvin778 <122368159+calvin778@users.noreply.github.com>
+Date:   Tue Jan 24 10:40:58 2023 +0700
+
+    Delete Donasi directory
+
+[33mcommit a48359caa87a8a166493f6e251a5a57ae1a1615a[m
+Author: calvinck777 <kosasihcalvin531@gmail.com>
+Date:   Tue Jan 24 10:22:24 2023 +0700
+
+    Menambah Emergency
+
+[33mcommit 98a4cf0a018017e48f2c0a10978fbb27cc68de43[m
+Author: calvinck777 <kosasihcalvin531@gmail.com>
+Date:   Tue Jan 24 10:11:17 2023 +0700
+
+    Menambah Donasi
+
+[33mcommit 3e229973e84e50ba87c85c17125d63e6dbdf7939[m
+Author: calvin778 <122368159+calvin778@users.noreply.github.com>
+Date:   Sun Jan 22 21:20:39 2023 +0700
+
+    Delete Calvin
+
+[33mcommit a6d1af1b1b5de0692b5bdb6498702d2891ea5afb[m
+Author: calvin778 <122368159+calvin778@users.noreply.github.com>
+Date:   Sun Jan 22 21:14:04 2023 +0700
+
+    Create Calvin
+
+[33mcommit d851f424b5001a21dfcdb43fd8bde9715d1556ce[m
+Author: salomo12 <salomohasibuan99@gmail.com>
+Date:   Sun Jan 22 01:55:32 2023 +0700
+
+    Add first UI Prototype
